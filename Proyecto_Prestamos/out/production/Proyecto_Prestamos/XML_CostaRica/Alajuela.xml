@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<costarica>
+<provincias>
+<numero>2</numero>
+<nombre>Alajuela</nombre>
+<cantones>
+    <numero>1</numero>
+    <nombre>Alajuela</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Alajuela</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Carrizal</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Desamparados</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Garita</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>Guácima</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>Río Segundo</nombre>
+    </distritos>
+    <distritos>
+        <numero>7</numero>
+        <nombre>Sabanilla</nombre>
+    </distritos>
+    <distritos>
+        <numero>8</numero>
+        <nombre>San Antonio</nombre>
+    </distritos>
+    <distritos>
+        <numero>9</numero>
+        <nombre>San Isidro</nombre>
+    </distritos>
+    <distritos>
+        <numero>10</numero>
+        <nombre>San José</nombre>
+    </distritos>
+    <distritos>
+        <numero>11</numero>
+        <nombre>San Rafael</nombre>
+    </distritos>
+    <distritos>
+        <numero>12</numero>
+        <nombre>Sarapiquí</nombre>
+    </distritos>
+    <distritos>
+        <numero>13</numero>
+        <nombre>Tambor</nombre>
+    </distritos>
+    <distritos>
+        <numero>14</numero>
+        <nombre>Turrúcares</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>2</numero>
+    <nombre>Alfaro Ruiz</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Guadalupe</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Laguna</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Palmira</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Tapezco</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>Zapote</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>Zarcero</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>3</numero>
+    <nombre>Atenas</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Atenas</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Concepción</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Jesús</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Mercedes</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>San Isidro</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>San José</nombre>
+    </distritos>
+    <distritos>
+        <numero>7</numero>
+        <nombre>Santa Eulalia</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>4</numero>
+    <nombre>Grecia</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Bolívar</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Grecia</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Puente de Piedra</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Río Cuarto</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>San Isidro</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>San José</nombre>
+    </distritos>
+    <distritos>
+        <numero>7</numero>
+        <nombre>San Roque</nombre>
+    </distritos>
+    <distritos>
+        <numero>8</numero>
+        <nombre>Tacares</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>5</numero>
+    <nombre>Guatuso</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Buenavista</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Cote</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>San Rafael</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>6</numero>
+    <nombre>Los Chiles</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Caño Negro</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>El Amparo</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Los Chiles</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>San Jorge</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>7</numero>
+    <nombre>Naranjo</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Cirri Sur</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Naranjo</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Rosario</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>San Jerónimo</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>San José</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>San Juan</nombre>
+    </distritos>
+    <distritos>
+        <numero>7</numero>
+        <nombre>San Miguel</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>8</numero>
+    <nombre>Orotina</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Ceiba</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Covolar</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Hacienda Vieja</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Mastata</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>Orotina</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>9</numero>
+    <nombre>Palmares</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Buenos Aires</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Candelaria</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Esquipulas</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Granja</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>Palmares</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>Santiago</nombre>
+    </distritos>
+    <distritos>
+        <numero>7</numero>
+        <nombre>Zaragoza</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>10</numero>
+    <nombre>Poás</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Carrillos</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Sabana Redonda</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>San Juan</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>San Pedro</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>San Rafael</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>11</numero>
+    <nombre>San Carlos</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Aguas Zarcas</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Buena Vista</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Ciudad Quesada</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Cutris</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>Florencia</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>Fortuna</nombre>
+    </distritos>
+    <distritos>
+        <numero>7</numero>
+        <nombre>Monterrey</nombre>
+    </distritos>
+    <distritos>
+        <numero>8</numero>
+        <nombre>Palmares</nombre>
+    </distritos>
+    <distritos>
+        <numero>9</numero>
+        <nombre>Pital</nombre>
+    </distritos>
+    <distritos>
+        <numero>10</numero>
+        <nombre>Pocosol</nombre>
+    </distritos>
+    <distritos>
+        <numero>11</numero>
+        <nombre>Tigra</nombre>
+    </distritos>
+    <distritos>
+        <numero>12</numero>
+        <nombre>Venado</nombre>
+    </distritos>
+    <distritos>
+        <numero>13</numero>
+        <nombre>Venecia</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>12</numero>
+    <nombre>San Mateo</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Desmonte</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Jesús María</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>a</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>13</numero>
+    <nombre>San Ramón</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Alfaro</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Concepción</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Peñas Blancas</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Piedades Norte</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>Piedades Sur</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>San Isidro</nombre>
+    </distritos>
+    <distritos>
+        <numero>7</numero>
+        <nombre>San Juan</nombre>
+    </distritos>
+    <distritos>
+        <numero>8</numero>
+        <nombre>San Rafael</nombre>
+    </distritos>
+    <distritos>
+        <numero>9</numero>
+        <nombre>San Ramón</nombre>
+    </distritos>
+    <distritos>
+        <numero>10</numero>
+        <nombre>Santiago</nombre>
+    </distritos>
+    <distritos>
+        <numero>11</numero>
+        <nombre>Volio</nombre>
+    </distritos>
+    <distritos>
+        <numero>12</numero>
+        <nombre>Zapotal</nombre>
+    </distritos>
+    <distritos>
+        <numero>13</numero>
+        <nombre>Ángeles</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>14</numero>
+    <nombre>Upala</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Aguas Claras</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>Bijagua</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Delicias</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Dos Ríos</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>San José</nombre>
+    </distritos>
+    <distritos>
+        <numero>6</numero>
+        <nombre>Yolillal</nombre>
+    </distritos>
+</cantones>
+<cantones>
+    <numero>15</numero>
+    <nombre>Valverde Vega</nombre>
+    <distritos>
+        <numero>1</numero>
+        <nombre>Rodríguez</nombre>
+    </distritos>
+    <distritos>
+        <numero>2</numero>
+        <nombre>San Pedro</nombre>
+    </distritos>
+    <distritos>
+        <numero>3</numero>
+        <nombre>Sarchí Norte</nombre>
+    </distritos>
+    <distritos>
+        <numero>4</numero>
+        <nombre>Sarchí Sur</nombre>
+    </distritos>
+    <distritos>
+        <numero>5</numero>
+        <nombre>Toro Amarillo</nombre>
+    </distritos>
+</cantones>
+</provincias>
+</costarica>

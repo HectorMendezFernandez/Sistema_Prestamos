@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<clientes>
+    <cliente>
+        <canton>Alajuela</canton>
+        <cedula>123</cedula>
+        <distrito>Carrizal</distrito>
+        <nombre>Hector1</nombre>
+        <provincia>Alajuela</provincia>
+    </cliente>
+    <cliente>
+        <canton>Pococí</canton>
+        <cedula>3210</cedula>
+        <distrito>Guapiles</distrito>
+        <nombre>Hector2</nombre>
+        <provincia>Limon</provincia>
+    </cliente>
+</clientes>

@@ -1,0 +1,9 @@
+Proyecto de programacion 3 
+-Registro de prestamos
+
+Estudiantes:
+    -Kevin Brenes Cerdas
+     116800332
+
+    -Hector Mendez Fernandez
+     118460849

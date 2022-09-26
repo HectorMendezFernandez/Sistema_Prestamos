@@ -1,0 +1,27 @@
+Guia para idea de mapa
+
+MouseEvent: Eventos del mouse (hacer click, ingresar y salir)
+(Se trabaja con MouseLister)
+Metodos: 
+
+-MouseClicked: Se invoca cuando se presiona  se suelta la tecla del mouse
+
+-MousePressed: Cuando se mantiene presionado la tecla del mouse
+
+-MouseReleased: Cuando se suelta la tecla del mouse
+
+-MouseEntered: Cuando el mouse entra a un componente
+
+-MouseExited: Cuando el mouse se sale de un componente
+
+
+
+MouseMotionEvent: Eventos de movimiento del mouse (mover y arrastrar)
+(Se trabaja con MouseMotionListener)
+
+Metodos
+
+-MouseMoved: Cuando el cursos del mouse se mueve de un lado a otro
+
+-MouseDragged: Cuando se presiona un boton del mouse en el componente y se arrastra(termina cuando se suelta el componente)
+

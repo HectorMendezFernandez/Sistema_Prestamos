@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<costarica>
+<provincias>
+<numero>1</numero>
+<nombre>San José</nombre>
+<cantones>
+<numero>1</numero>
+<nombre>Canton Acosta</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Cangrejal</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Guaitil</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Palmichal</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>Sabanillas</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>San Ignacio</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>2</numero>
+<nombre>Canton Alajuelita</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Alajuelita</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Concepción</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>San Antonio</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>San Felipe</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>San Josecito</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>3</numero>
+<nombre>Canton Aserrí</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Aserrí</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Legua</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Monterrey</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>San Gabriel</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Tarbaca</nombre>
+</distritos>
+<distritos>
+<numero>6</numero>
+<nombre>Vuelta de Jorco</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>4</numero>
+<nombre>Canton Curridabat</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Curridabat</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Granadilla</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Sánchez</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>Tirrases</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>5</numero>
+<nombre>Desamparados</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Damas</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Desamparados</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Frailes</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>Patarrá</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Rosario</nombre>
+</distritos>
+<distritos>
+<numero>6</numero>
+<nombre>San Antonio</nombre>
+</distritos>
+<distritos>
+<numero>7</numero>
+<nombre>San Cristóbal</nombre>
+</distritos>
+<distritos>
+<numero>8</numero>
+<nombre>San Juan de Dios</nombre>
+</distritos>
+<distritos>
+<numero>9</numero>
+<nombre>San Miguel</nombre>
+</distritos>
+<distritos>
+<numero>10</numero>
+<nombre>San Rafael</nombre>
+</distritos>
+<distritos>
+<numero>11</numero>
+<nombre>San Rafael Abajo</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>6</numero>
+<nombre>Dota</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Copey</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Jardín</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Santa María</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>7</numero>
+<nombre>Escazú</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Escazú</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>San Antonio</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>San Rafael</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>8</numero>
+<nombre>Goicoechea</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Calle Blancos</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Guadalupe</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Ipís</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>Mata de Plátano</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Rancho Redondo</nombre>
+</distritos>
+<distritos>
+<numero>6</numero>
+<nombre>San Francisco</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>9</numero>
+<nombre>León Cortés</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Llano Bonito</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>San Andrés</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>San Isidro</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>San Pablo</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Santa Cruz</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>10</numero>
+<nombre>Montes de Oca</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Mercedes</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Sabanilla</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>San Pedro</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>San Rafael</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>11</numero>
+<nombre>Mora</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Colón</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Guayabo</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Picagres</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>Piedras Negras</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Tabarcia</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>12</numero>
+<nombre>Moravia</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>San Jerónimo</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>San Vicente</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Trinidad</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>13</numero>
+<nombre>Puriscal</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Barbacoas</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Candelaria</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Chires</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>Desamparados</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Grifo Alto</nombre>
+</distritos>
+<distritos>
+<numero>6</numero>
+<nombre>Mercedes Sur</nombre>
+</distritos>
+<distritos>
+<numero>7</numero>
+<nombre>San Antonio</nombre>
+</distritos>
+<distritos>
+<numero>8</numero>
+<nombre>San Rafael</nombre>
+</distritos>
+<distritos>
+<numero>9</numero>
+<nombre>Santiago</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>14</numero>
+<nombre>Pérez Zeledón</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Barú</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Cajón</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Daniel Flores</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>General</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Pejibaye</nombre>
+</distritos>
+<distritos>
+<numero>6</numero>
+<nombre>Platanares</nombre>
+</distritos>
+<distritos>
+<numero>7</numero>
+<nombre>Páramo</nombre>
+</distritos>
+<distritos>
+<numero>8</numero>
+<nombre>Rivas</nombre>
+</distritos>
+<distritos>
+<numero>9</numero>
+<nombre>Río Nuevo</nombre>
+</distritos>
+<distritos>
+<numero>10</numero>
+<nombre>San Isidro de El General</nombre>
+</distritos>
+<distritos>
+<numero>11</numero>
+<nombre>San Pedro</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>15</numero>
+<nombre>San José</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Carmen</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Catedral</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Hatillo</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>Hospital</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Mata Redonda</nombre>
+</distritos>
+<distritos>
+<numero>6</numero>
+<nombre>Merced</nombre>
+</distritos>
+<distritos>
+<numero>7</numero>
+<nombre>Pavas</nombre>
+</distritos>
+<distritos>
+<numero>8</numero>
+<nombre>San Francisco de Dos Ríos</nombre>
+</distritos>
+<distritos>
+<numero>9</numero>
+<nombre>San Sebastián (Paso Ancho)</nombre>
+</distritos>
+<distritos>
+<numero>10</numero>
+<nombre>Uruca</nombre>
+</distritos>
+<distritos>
+<numero>11</numero>
+<nombre>Zapote</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>16</numero>
+<nombre>Santa Ana</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Brasil</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Piedades</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Pozos</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>Salitral</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>Santa Ana</nombre>
+</distritos>
+<distritos>
+<numero>6</numero>
+<nombre>Uruca</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>17</numero>
+<nombre>Tarrazú</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>San Carlos</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>San Lorenzo</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>San Marcos</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>18</numero>
+<nombre>Tibás</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Anselmo Llorente</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Cinco Esquinas (Colima)</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>San Juan (Florida)</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>19</numero>
+<nombre>Turrubares</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>San Juan de Mata</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>San Luis</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>San Pablo</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>San Pedro</nombre>
+</distritos>
+</cantones>
+<cantones>
+<numero>20</numero>
+<nombre>Vázquez de Coronado</nombre>
+<distritos>
+<numero>1</numero>
+<nombre>Cascajal</nombre>
+</distritos>
+<distritos>
+<numero>2</numero>
+<nombre>Jesús - Dulce Nombre</nombre>
+</distritos>
+<distritos>
+<numero>3</numero>
+<nombre>Patalillo</nombre>
+</distritos>
+<distritos>
+<numero>4</numero>
+<nombre>San Isidro</nombre>
+</distritos>
+<distritos>
+<numero>5</numero>
+<nombre>San Rafael</nombre>
+</distritos>
+</cantones>
+</provincias>
+</costarica>

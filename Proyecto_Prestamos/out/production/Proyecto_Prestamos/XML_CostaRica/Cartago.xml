@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<costarica>
+<provincias>
+    <numero>3</numero>
+    <nombre>Cartago</nombre>
+    <cantones>
+        <numero>1</numero>
+        <nombre>Alvarado</nombre>
+        <distritos>
+            <numero>1</numero>
+            <nombre>Capellades</nombre>
+        </distritos>
+        <distritos>
+            <numero>2</numero>
+            <nombre>Cervantes</nombre>
+        </distritos>
+        <distritos>
+            <numero>3</numero>
+            <nombre>Pacayas</nombre>
+        </distritos>
+    </cantones>
+    <cantones>
+        <numero>2</numero>
+        <nombre>Cartago</nombre>
+        <distritos>
+            <numero>1</numero>
+            <nombre>Carmen</nombre>
+        </distritos>
+        <distritos>
+            <numero>2</numero>
+            <nombre>Corralillo</nombre>
+        </distritos>
+        <distritos>
+            <numero>3</numero>
+            <nombre>Dulce Nombre</nombre>
+        </distritos>
+        <distritos>
+            <numero>4</numero>
+            <nombre>Guadalupe</nombre>
+        </distritos>
+        <distritos>
+            <numero>5</numero>
+            <nombre>Llano Grande</nombre>
+        </distritos>
+        <distritos>
+            <numero>6</numero>
+            <nombre>Parte Occidental</nombre>
+        </distritos>
+        <distritos>
+            <numero>7</numero>
+            <nombre>Parte Oriental</nombre>
+        </distritos>
+        <distritos>
+            <numero>8</numero>
+            <nombre>Quebradilla</nombre>
+        </distritos>
+        <distritos>
+            <numero>9</numero>
+            <nombre>San Francisco - Aguascalientes</nombre>
+        </distritos>
+        <distritos>
+            <numero>10</numero>
+            <nombre>San Nicolás</nombre>
+        </distritos>
+        <distritos>
+            <numero>11</numero>
+            <nombre>Tierra Blanca</nombre>
+        </distritos>
+    </cantones>
+    <cantones>
+        <numero>3</numero>
+        <nombre>El Guarco</nombre>
+        <distritos>
+            <numero>1</numero>
+            <nombre>Patio de Agua</nombre>
+        </distritos>
+        <distritos>
+            <numero>2</numero>
+            <nombre>San Isidro</nombre>
+        </distritos>
+        <distritos>
+            <numero>3</numero>
+            <nombre>Tejar</nombre>
+        </distritos>
+        <distritos>
+            <numero>4</numero>
+            <nombre>Tobosi</nombre>
+        </distritos>
+    </cantones>
+    <cantones>
+        <numero>4</numero>
+        <nombre>Jiménez</nombre>
+        <distritos>
+            <numero>1</numero>
+            <nombre>Juan Viñas</nombre>
+        </distritos>
+        <distritos>
+            <numero>2</numero>
+            <nombre>Pejibaye</nombre>
+        </distritos>
+        <distritos>
+            <numero>3</numero>
+            <nombre>Tucurrique</nombre>
+        </distritos>
+    </cantones>
+    <cantones>
+        <numero>5</numero>
+        <nombre>La Unión</nombre>
+        <distritos>
+            <numero>1</numero>
+            <nombre>Concepción</nombre>
+        </distritos>
+        <distritos>
+            <numero>2</numero>
+            <nombre>Dulce Nombre</nombre>
+        </distritos>
+        <distritos>
+            <numero>3</numero>
+            <nombre>Río Azul</nombre>
+        </distritos>
+        <distritos>
+            <numero>4</numero>
+            <nombre>San Diego</nombre>
+        </distritos>
+        <distritos>
+            <numero>5</numero>
+            <nombre>San Juan</nombre>
+        </distritos>
+        <distritos>
+            <numero>6</numero>
+            <nombre>San Rafael</nombre>
+        </distritos>
+        <distritos>
+            <numero>7</numero>
+            <nombre>San Ramón</nombre>
+        </distritos>
+        <distritos>
+            <numero>8</numero>
+            <nombre>Tres Ríos</nombre>
+        </distritos>
+    </cantones>
+    <cantones>
+        <numero>6</numero>
+        <nombre>Oreamuno</nombre>
+        <distritos>
+            <numero>1</numero>
+            <nombre>Cipreses</nombre>
+        </distritos>
+        <distritos>
+            <numero>2</numero>
+            <nombre>Cot</nombre>
+        </distritos>
+        <distritos>
+            <numero>3</numero>
+            <nombre>Potrero Cerrado</nombre>
+        </distritos>
+        <distritos>
+            <numero>4</numero>
+            <nombre>San Rafael</nombre>
+        </distritos>
+        <distritos>
+            <numero>5</numero>
+            <nombre>Santa Rosa</nombre>
+        </distritos>
+    </cantones>
+    <cantones>
+        <numero>7</numero>
+        <nombre>Paraíso</nombre>
+        <distritos>
+            <numero>1</numero>
+            <nombre>Cachí</nombre>
+        </distritos>
+        <distritos>
+            <numero>2</numero>
+            <nombre>Orosí</nombre>
+        </distritos>
+        <distritos>
+            <numero>3</numero>
+            <nombre>Paraíso</nombre>
+        </distritos>
+        <distritos>
+            <numero>4</numero>
+            <nombre>Santiago</nombre>
+        </distritos>
+    </cantones>
+    <cantones>
+        <numero>8</numero>
+        <nombre>Turrialba</nombre>
+        <distritos>
+            <numero>1</numero>
+            <nombre>La Suiza</nombre>
+        </distritos>
+        <distritos>
+            <numero>2</numero>
+            <nombre>Peralta</nombre>
+        </distritos>
+        <distritos>
+            <numero>3</numero>
+            <nombre>Santa Cruz</nombre>
+        </distritos>
+        <distritos>
+            <numero>4</numero>
+            <nombre>Santa Pavones</nombre>
+        </distritos>
+        <distritos>
+            <numero>5</numero>
+            <nombre>Santa Rosa</nombre>
+        </distritos>
+        <distritos>
+            <numero>6</numero>
+            <nombre>Santa Teresita</nombre>
+        </distritos>
+        <distritos>
+            <numero>7</numero>
+            <nombre>Tayutic</nombre>
+        </distritos>
+        <distritos>
+            <numero>8</numero>
+            <nombre>Tuis</nombre>
+        </distritos>
+        <distritos>
+            <numero>9</numero>
+            <nombre>Turrialba</nombre>
+        </distritos>
+    </cantones>
+</provincias>
+</costarica>

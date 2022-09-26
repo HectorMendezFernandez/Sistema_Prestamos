@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<costarica>
+    <provincias>
+        <numero>4</numero>
+        <nombre>Heredia</nombre>
+        <cantones>
+            <numero>1</numero>
+            <nombre>Barva</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Barva</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>San José de la Montaña</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>San Pablo</nombre>
+            </distritos>
+            <distritos>
+                <numero>4</numero>
+                <nombre>San Pedro</nombre>
+            </distritos>
+            <distritos>
+                <numero>5</numero>
+                <nombre>San Roque</nombre>
+            </distritos>
+            <distritos>
+                <numero>6</numero>
+                <nombre>Santa Lucía</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>2</numero>
+            <nombre>Belén</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Asunción</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>La Rivera</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>San Antonio</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>3</numero>
+            <nombre>Flores</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Barrantes</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>Llorente</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>San Joaquín</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>4</numero>
+            <nombre>Heredia</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Heredia</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>Mercedes</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>San Francisco</nombre>
+            </distritos>
+            <distritos>
+                <numero>4</numero>
+                <nombre>Ulloa (Barrial)</nombre>
+            </distritos>
+            <distritos>
+                <numero>5</numero>
+                <nombre>Varablanca</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>5</numero>
+            <nombre>San Isidro</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Concepción</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>San Isidro</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>San José</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>6</numero>
+            <nombre>San Pablo</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>San Pablo</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>7</numero>
+            <nombre>San Rafael</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Concepción</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>Los Angeles</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>San Josecito</nombre>
+            </distritos>
+            <distritos>
+                <numero>4</numero>
+                <nombre>San Rafael</nombre>
+            </distritos>
+            <distritos>
+                <numero>5</numero>
+                <nombre>Santiago</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>8</numero>
+            <nombre>Santa Bárbara</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Jesús</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>Puraba</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>San Juan</nombre>
+            </distritos>
+            <distritos>
+                <numero>4</numero>
+                <nombre>San Pedro</nombre>
+            </distritos>
+            <distritos>
+                <numero>5</numero>
+                <nombre>Santa Bárbara</nombre>
+            </distritos>
+            <distritos>
+                <numero>6</numero>
+                <nombre>Santo Domingo</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>9</numero>
+            <nombre>Santo Domingo</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Para</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>Parácito</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>San Miguel</nombre>
+            </distritos>
+            <distritos>
+                <numero>4</numero>
+                <nombre>San Vicente</nombre>
+            </distritos>
+            <distritos>
+                <numero>5</numero>
+                <nombre>Santa Rosa</nombre>
+            </distritos>
+            <distritos>
+                <numero>6</numero>
+                <nombre>Santo Domingo</nombre>
+            </distritos>
+            <distritos>
+                <numero>7</numero>
+                <nombre>Santo Tomás</nombre>
+            </distritos>
+            <distritos>
+                <numero>8</numero>
+                <nombre>Tures</nombre>
+            </distritos>
+        </cantones>
+        <cantones>
+            <numero>10</numero>
+            <nombre>Sarapiquí</nombre>
+            <distritos>
+                <numero>1</numero>
+                <nombre>Horquetas</nombre>
+            </distritos>
+            <distritos>
+                <numero>2</numero>
+                <nombre>La Virgen</nombre>
+            </distritos>
+            <distritos>
+                <numero>3</numero>
+                <nombre>Puerto Viejo</nombre>
+            </distritos>
+        </cantones>
+    </provincias>
+</costarica>
